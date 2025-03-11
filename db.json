@@ -22,7 +22,7 @@
         "price": 1100,
         "description": "Medium rice refers to rice grains that are shorter and plumper than long-grain rice, offering a tender, slightly sticky texture when cooked.",
         "category": "Medium rice",
-        "image": "15.jpg",
+        "image": "https://freeimage.host/i/2pinIiFhttps://freeimage.host/i/3qCihva",
         "rating": {
         "rate": 2.6,
         "count": 235
@@ -43,10 +43,10 @@
         {
         "id": 17,
         "title": "Achiya New Rice",
-        "price": 1250,
+        "price": 1170,
         "description": "Medium rice refers to rice grains that are shorter and plumper than long-grain rice, offering a tender, slightly sticky texture when cooked.",
         "category": "Medium rice",
-        "image": "https://iili.io/2pinIiF.jpg",
+        "image": "https://iili.io/3qCpeZg.jpg",
         "rating": {
         "rate": 3.8,
         "count": 679
