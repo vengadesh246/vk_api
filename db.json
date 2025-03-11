@@ -1,53 +1,6 @@
 {
     "vk":    [
-        {
-        "id": 1,
-        "title": "Long rice",
-        "price": 1500,
-        "description": "Long rice refers to slender, long-grain rice varieties that stay fluffy and separate when cooked.",
-        "category": "long rice",
-        "image": "/images/1.jpg",
-        "rating": {
-        "rate": 3.9,
-        "count": 120
-        }
-        },
-        {
-        "id": 2,
-        "title": "Long rice 2 ",
-        "price": 1700,
-        "description": "Long rice refers to slender, long-grain rice varieties that stay fluffy and separate when cooked.",
-        "category": "long rice",
-        "image": "/images/2.jpg",
-        "rating": {
-        "rate": 4.1,
-        "count": 259
-        }
-        },
-        {
-        "id": 3,
-        "title": "Long rice 3",
-        "price": 1800,
-        "description": "Long rice refers to slender, long-grain rice varieties that stay fluffy and separate when cooked.",
-        "category": "long rice",
-        "image": "/images/3.jpg",
-        "rating": {
-        "rate": 4.7,
-        "count": 500
-        }
-        },
-        {
-        "id": 4,
-        "title": "Long rice 4",
-        "price": 2000,
-        "description": "Long rice refers to slender, long-grain rice varieties that stay fluffy and separate when cooked.",
-        "category": "long rice",
-        "image": "/images/4.jpg",
-        "rating": {
-        "rate": 2.1,
-        "count": 430
-        }
-        },
+       
         {
         "id": 5,
         "title": "Small Rice",
@@ -60,120 +13,12 @@
         "count": 400
         }
         },
-        {
-        "id": 6,
-        "title": "Small Rice 2 ",
-        "price": 1680,
-        "description": "Small rice grains, perfect for light, fluffy meals and quick cooking.",
-        "category": "Small rice",
-        "image": "6.jpg",
-        "rating": {
-        "rate": 3.9,
-        "count": 70
-        }
-        },
-        {
-        "id": 7,
-        "title": "Small Rice 3 ",
-        "price": 1800,
-        "description": "Small rice grains, perfect for light, fluffy meals and quick cooking.",
-        "category": "Small rice",
-        "image": "7.jpg",
-        "rating": {
-        "rate": 3,
-        "count": 400
-        }
-        },
-        {
-        "id": 8,
-        "title": "Small Rice 4 ",
-        "price": 1950,
-        "description": "Small rice grains, perfect for light, fluffy meals and quick cooking.",
-        "category": "Small rice",
-        "image": "8.jpg",
-        "rating": {
-        "rate": 1.9,
-        "count": 100
-        }
-        },
-        {
-        "id": 9,
-        "title": "Traditional Rice 1 ",
-        "price": 1000,
-        "description": "Traditional rice refers to heirloom or indigenous rice varieties cultivated using natural farming methods, known for their rich flavor, nutrition, and cultural significance.",
-        "category": "Traditional",
-        "image": "9.jpg",
-        "rating": {
-        "rate": 3.3,
-        "count": 203
-        }
-        },
-        {
-        "id": 10,
-        "title": "Traditional Rice 2",
-        "price": 1100,
-        "description": "Traditional rice refers to heirloom or indigenous rice varieties cultivated using natural farming methods, known for their rich flavor, nutrition, and cultural significance.",
-        "category": "Traditional",
-        "image": "10.jpg",
-        "rating": {
-        "rate": 2.9,
-        "count": 470
-        }
-        },
-        {
-        "id": 11,
-        "title": "Traditional Rice 3",
-        "price": 1200,
-        "description": "Traditional rice refers to heirloom or indigenous rice varieties cultivated using natural farming methods, known for their rich flavor, nutrition, and cultural significance.",
-        "category": "Traditional",
-        "image": "11.jpg",
-        "rating": {
-        "rate": 4.8,
-        "count": 319
-        }
-        },
-        {
-        "id": 12,
-        "title": "Traditional Rice 4",
-        "price": 1300,
-        "description": "Traditional rice refers to heirloom or indigenous rice varieties cultivated using natural farming methods, known for their rich flavor, nutrition, and cultural significance.",
-        "category": "Traditional",
-        "image": "12.jpg",
-        "rating": {
-        "rate": 4.8,
-        "count": 400
-        }
-        },
-        {
-        "id": 13,
-        "title": "Traditional Rice 5",
-        "price": 1450,
-        "description": "Traditional rice refers to heirloom or indigenous rice varieties cultivated using natural farming methods, known for their rich flavor, nutrition, and cultural significance.",
-        "category": "Traditional",
-        "image": "13.jpg",
-        "rating": {
-        "rate": 2.9,
-        "count": 250
-        }
-        },
-        {
-        "id": 14,
-        "title": "Traditional Rice 6",
-        "price": 1500,
-        "description": "Traditional rice refers to heirloom or indigenous rice varieties cultivated using natural farming methods, known for their rich flavor, nutrition, and cultural significance.",
-        "category": "Traditional",
-        "image": "14.jpg",
-        "rating": {
-        "rate": 2.2,
-        "count": 140
-        }
-        },
-
-
+       
+        
 
         {
         "id": 15,
-        "title": "Krishna-Atchaya New Rice ",
+        "title": "Krishna-BPT New Rice ",
         "price": 1100,
         "description": "Medium rice refers to rice grains that are shorter and plumper than long-grain rice, offering a tender, slightly sticky texture when cooked.",
         "category": "Medium rice",
@@ -185,8 +30,8 @@
         },
         {
         "id": 16,
-        "title": "Anil-Atchaya Old Rice",
-        "price": 1150,
+        "title": "Achiya Old Rice",
+        "price": 1290,
         "description": "Medium rice refers to rice grains that are shorter and plumper than long-grain rice, offering a tender, slightly sticky texture when cooked.",
         "category": "Medium rice",
         "image": "16.jpg",
@@ -197,7 +42,7 @@
         },
         {
         "id": 17,
-        "title": "Rajabogam-Atchaya Old Rice",
+        "title": "Achiya New Rice",
         "price": 1250,
         "description": "Medium rice refers to rice grains that are shorter and plumper than long-grain rice, offering a tender, slightly sticky texture when cooked.",
         "category": "Medium rice",
@@ -221,7 +66,7 @@
         },
         {
         "id": 19,
-        "title": "Sun",
+        "title": "Sun- Old Rice",
         "price": 1650,
         "description": "Medium rice refers to rice grains that are shorter and plumper than long-grain rice, offering a tender, slightly sticky texture when cooked.",
         "category": "Medium rice",
